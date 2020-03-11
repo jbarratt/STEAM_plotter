@@ -21,8 +21,15 @@ input {
 }
 */
 
-fieldset {
+label {
 	font-size: 200%;
+}
+
+#input-text {
+	font-size: 250%;
+	border-width: 3px;
+	border-color: #000;
+	background-color: #fff;
 }
 
 svg {
