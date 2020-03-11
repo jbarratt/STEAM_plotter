@@ -1,0 +1,7 @@
+node_modules
+js
+*.ttf
+frontend/public/bundle*
+deploy.sh
+.DS_Store
+__pycache__

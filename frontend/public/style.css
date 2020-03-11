@@ -1,0 +1,64 @@
+body {
+	padding: 0 20px;
+	background-color: #efefef;
+}
+
+/* 
+label {
+	margin-right: 3ex;
+	white-space: nowrap;
+	margin: 15px 30px;
+	display: inline-block;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	outline: none;
+	font-size: 1.25em;
+}
+
+input {
+	font-size: 1.25em;
+	margin-left: 10px;
+}
+*/
+
+fieldset {
+	font-size: 200%;
+}
+
+svg {
+	margin: 20px;
+	overflow: visible;
+}
+
+#svg-nametag {
+	border: 2px;
+	border-color: #000;
+	background-color: #fff;
+}
+
+/*
+button {
+	padding: 25px 20px;
+	margin: 15px 20px;
+	display: inline-block;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	outline: none;
+	position: relative;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+	font-weight: 700;
+	background: #cb4e4e;
+	color: #fff;
+	box-shadow: 0 6px #ab3c3c;
+	-webkit-transition: none;
+	-moz-transition: none;
+	transition: none;
+	border-radius: 40px;
+}
+
+button:hover {
+	box-shadow: 0 4px #ab3c3c;
+}
+*/
