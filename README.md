@@ -50,7 +50,7 @@ It takes the data written to it, and writes it to a local directory. The end.
 The printer daemon:
 
 * Waits for the click of a gamepad button
-* Finds the oldest file (by modification time) in the directory the backend saves files to
+* Finds the oldest file (by creation time) in the directory the backend saves files to
 * Sends that to the plotter
 * Moves it to a `plotted/` folder
 * Goes back to waiting for another gamepad click.
